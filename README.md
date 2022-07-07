@@ -56,6 +56,6 @@
 <img src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white' height=30>
 <img src='https://img.shields.io/badge/ERP_SYSTEMS-ff00ff?style=for-the-badge' height=30>
 <img src='https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white' height=30>
-
+<img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black' height=30>
 
 </div> 
