@@ -26,6 +26,7 @@
 <img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' height=30>
 
 **.**
+
 ###### ZF CV SYSTEMS *11/2020 - 03/2022*
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' height=30>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' height=30>
@@ -42,7 +43,7 @@
 
 **.**
 
-###### RAWLPLUG *03/2022 - ?*
+###### RAWLPLUG *03/2022 - 03/2023*
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' height=30>
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' height=30>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' height=30>
@@ -57,5 +58,19 @@
 <img src='https://img.shields.io/badge/ERP_SYSTEMS-ff00ff?style=for-the-badge' height=30>
 <img src='https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white' height=30>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black' height=30>
+
+**.**
+
+###### DSSTREAM (P&G) *03/2023 - ?*
+<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' height=30>
+<img src='https://img.shields.io/badge/Pandas-FFD43B?style=for-the-badge&logo=python&logoColor=blue' height=30>
+<img src='https://img.shields.io/badge/Pyspark-FFD43B?style=for-the-badge&logo=python&logoColor=blue' height=30>
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' height=30>
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' height=30>
+<img src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white' height=30>
+<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' height=30>
+<img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' height=30>
+<img src='https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white' height=30>
+
 
 </div> 
